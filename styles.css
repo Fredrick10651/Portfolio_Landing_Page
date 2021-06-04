@@ -26,3 +26,26 @@ font-family:  'ZCOOL KuaiLe', cursive;
 body{
     background-color: black;
 }
+h1{
+    color: white;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    margin-left: 50px;
+}
+img {
+    /* border-radius: 50%; */
+    float: right;
+    margin-right: 150px;
+    padding-top: 20px;
+  }
+  h2 {
+      color: white;
+      padding-top: 150px;
+      margin-left: 100px;
+      font-weight: 800;
+      font-size: xx-large
+}
+#quote {
+    color: white;
+    margin-left: 120px;
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
