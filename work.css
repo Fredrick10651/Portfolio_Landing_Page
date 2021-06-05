@@ -1,0 +1,16 @@
+.picture{
+    float: right;
+    margin-right: 150px;
+}
+.description{
+    float: left;
+    margin-left: 100px;
+    padding-top: 60px;
+}
+.container{
+    padding-top: 50px;
+}
+.transport{
+    padding-top: 400px;
+}
+    
