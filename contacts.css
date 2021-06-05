@@ -31,7 +31,12 @@ input[type=submit]:hover {
   padding: 20px;
 }
 h3{
-    font-size: xx-large;
+    font-size:xx-large;
+    font-weight: bolder;
     text-align: center;
     font-family: 'ZCOOL KuaiLe', cursive;
+}
+p{
+    font-family: 'ZCOOL KuaiLe', cursive;
+    text-align: center;
 }
