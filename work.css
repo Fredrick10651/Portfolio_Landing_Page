@@ -6,11 +6,27 @@
     float: left;
     margin-left: 100px;
     padding-top: 60px;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    color: white;
 }
-.container{
+.anitas{
     padding-top: 50px;
 }
 .transport{
     padding-top: 400px;
 }
-    
+.dairy{
+    padding-top: 400px;
+}
+.intro{
+    font-family: 'ZCOOL KuaiLe', cursive;
+    color: white;
+   
+}
+h1{
+    font-size: xx-large;
+    text-align: center;
+}
+.background{
+    background-color: black;
+}
