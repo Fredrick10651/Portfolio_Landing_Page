@@ -40,3 +40,24 @@ p{
     font-family: 'ZCOOL KuaiLe', cursive;
     text-align: center;
 }
+.nav {
+  list-style: none;
+  float: right;
+  text-align: center;
+  overflow: hidden;
+  background-color: black;
+  font-family:  'ZCOOL KuaiLe', cursive;
+  }
+  
+  .nav a {
+      float: left;
+      color: #f2f2f2;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
+    }
+    .nav a:hover {
+      background-color: #ddd;
+      color: white;
+    }
