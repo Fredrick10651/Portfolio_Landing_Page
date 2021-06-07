@@ -44,4 +44,7 @@ h2{
           width: 100%;
         }
     }
+    .about p{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
 

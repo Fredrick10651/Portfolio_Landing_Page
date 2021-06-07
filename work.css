@@ -70,3 +70,6 @@ h1{
           width: 100%;
         }
     }
+    .container p{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
